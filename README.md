@@ -629,3 +629,4 @@ makeCorner(keyBtnConfirm, 7)
 keyBtnConfirm.MouseButton1Click:Connect(function()
     local input = keyBox.Text
     if input == keyDono or input == keyUsuario th
+ 
